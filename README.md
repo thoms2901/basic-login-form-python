@@ -3,4 +3,3 @@
 Dependencies:
 
 - Tornado Web 
-- Python PIL
